@@ -10,3 +10,4 @@ add What are we doing
 add our team
 add footer
 repir footer aa ul
+add footer to portfolio.html
