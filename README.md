@@ -14,3 +14,6 @@ add footer to portfolio.html
 переделал портфолио
 добавил в постары новые значения
 исправил значение в постере Inspiration has no Borders
+Постер Издание Limited Edition
+добавил последний постер
+исправил разметку
