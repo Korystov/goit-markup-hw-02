@@ -18,3 +18,4 @@ add footer to portfolio.html
 добавил последний постер
 исправил разметку
 добавил шрифт в index & portfolio
+добавил modern-normalize
