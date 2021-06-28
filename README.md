@@ -17,3 +17,4 @@ add footer to portfolio.html
 Постер Издание Limited Edition
 добавил последний постер
 исправил разметку
+добавил шрифт в index & portfolio
