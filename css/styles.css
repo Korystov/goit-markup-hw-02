@@ -2,6 +2,9 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #212121;
 }
+
+/* common */
+
 .list {
     list-style: none;
 }
@@ -25,3 +28,19 @@ body{
     color: #2196F3;
 }
 
+.menu-list-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.contact-list-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14x;
+letter-spacing: 0.02em;
+color: #757575;
+
+}
