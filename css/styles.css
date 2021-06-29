@@ -9,6 +9,10 @@ body{
     list-style: none;
 }
 
+.section {
+    text-align: center;
+}
+
 .link {
     text-decoration: none;
 }
@@ -42,5 +46,29 @@ font-size: 14px;
 line-height: 1.14x;
 letter-spacing: 0.02em;
 color: #757575;
-
 }
+
+/* Hearo */
+
+.hero-section {
+    background-color: #2F303A;
+}
+
+.hero-section-title {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.hero-selection-button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+
+
