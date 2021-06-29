@@ -21,3 +21,4 @@ add footer to portfolio.html
 добавил modern-normalize
 add language
 css styles document
+add list-styles for header
