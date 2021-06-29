@@ -19,3 +19,5 @@ add footer to portfolio.html
 исправил разметку
 добавил шрифт в index & portfolio
 добавил modern-normalize
+add language
+css styles document

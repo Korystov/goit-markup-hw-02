@@ -2,6 +2,9 @@
   "tabWidth": 2,
   "useTabs": false
 }
+Prettier
+
+
 {
   "arrowParens": "always",
   "bracketSpacing": true,
@@ -23,3 +26,4 @@
   "filepath": "/Volumes/1/Home Work/GitHub/goit-markup-hw-02/portfolio.html",
   "parser": "html"
 }
+
