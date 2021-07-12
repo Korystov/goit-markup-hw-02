@@ -33,7 +33,16 @@ ul {
     padding: 0;
 }
 
+.img {
+    display: block;
+}
+
 /* common */
+
+.section {
+    padding: 94px 0;
+    text-align: center;
+}
 
 .container {
     width: 1200px;
@@ -43,10 +52,6 @@ ul {
 
 .list {
     list-style: none;
-}
-
-.section {
-    text-align: center;
 }
 
 .button-modal,
@@ -60,23 +65,49 @@ cursor: pointer;
 
 /* Header */
 
+.hedear-container {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+}
+
 .logo {
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
     color: #000000;
+    display: block;
+    padding: 24px 0 25px;
+    margin-right: 93px;
 }
 
 .logo-accent {
     color: var(--accent-color);
 }
 
+.menu-list {
+    display: flex;
+} 
+
 .menu-list-link {
 font-weight: 500;
 line-height: 1.14;
 letter-spacing: 0.02em;
 color: var(--main-color-dark);
+display: block;
+padding: 32px 0;
+}
+
+.contact-list {
+    display: flex;
+    margin-left: auto;
+}
+
+.menu-list-item:not(:last-child), .contact-list-item:not(:last-child) {
+    margin-right: 50px;
 }
 
 .menu-link {
@@ -91,6 +122,8 @@ font-weight: 500;
 line-height: 1.14x;
 letter-spacing: 0.02em;
 color: var(--secondary-color);
+display: block;
+padding: 32px 0;
 }
 
 .current-link{
